@@ -1,8 +1,8 @@
+![](https://github.com/a-boring-man/Push_Swap/blob/main/84_scor_icon.png)
+
 # Push_Swap
 
-A early Project of 42 School
-
-The Project want us to implement a custom stack sorting algorythm using only certain instruction in order to familiarise us with the big O().
+This is an early project at 42 school that required us to implement a custom stack sorting algorithm using only a limited set of instructions, in order to familiarize us with big O notation.
 
 You have two stack, the arguement of the program will be the first stack content, by performing operation like rotation and push to the other stack you should sort the first stack and display the list of opperation you did, your grade depend on what treeshold you manage to hit.
 
